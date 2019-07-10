@@ -1,17 +1,16 @@
-# Experiment Scikit-learn
+# Experiment NLP
 
-> SciKit learn samples and examples. 
+> Learning the basics of Natural Language Progressing (NLP) using tools like SciKit-learn, etc. 
 
 ## Setup
 
-Assuming Python3 and Pip is already installed on your machine.
+> Assuming Python3 and Pip is already installed on your machine.
 
-For MacOS, copy paste below command on terminal to install all required Python3 programs
+For MacOS/Linux: Copy paste below command on terminal to install all required utilies
 ```
-pip install -U numpy scipy matplotlib ipython jupyter pandas
+pip install -U jupyter numpy pandas scipy matplotlib scikit-learn
 ```
 
-For other OS installation please follow the official installation documentation at [https://scipy.org/install.html](https://scipy.org/install.html)
 
 ## Run examples
 
